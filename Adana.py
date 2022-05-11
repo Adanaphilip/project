@@ -11,7 +11,7 @@ import numpy as np
 #import plotly.figure_factory as ff
 
 from PIL import Image
-from streamlit_option_menu import option_menu
+#from streamlit_option_menu import option_menu
 from sklearn import metrics
 from sklearn.metrics import accuracy_score 
 from sklearn.model_selection import train_test_split
