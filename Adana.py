@@ -6,7 +6,7 @@ import numpy as np
 
 #import joblib
 
-import seaborn as sns 
+#import seaborn as sns 
 #import plotly.graph_objs as go
 #import plotly.figure_factory as ff
 
@@ -17,10 +17,6 @@ from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 from sklearn.preprocessing import StandardScaler
-
-
-
-
 
 
 
@@ -123,18 +119,6 @@ if selected == "Home":
  
 
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 ########################################################################### 
  
